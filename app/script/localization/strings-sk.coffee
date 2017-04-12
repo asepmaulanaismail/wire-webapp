@@ -274,6 +274,7 @@ z.string.sk.conversation_delete_timestamp = 'Odstránené %@timestamp'
 z.string.sk.conversation_edit_timestamp = 'Upravené %@timestamp'
 z.string.sk.conversation_likes_caption = '%@number ľudí'
 z.string.sk.conversation_send_pasted_file = 'Vložený obrázok %date'
+z.string.sk.conversation_tweet_author = ' na Twitteri'
 
 # Collection
 z.string.sk.collection_show_all = 'Zobraziť všetky %no'
@@ -519,6 +520,7 @@ z.string.sk.warning_connectivity_no_internet = 'Bez prístupu na internet. Nebud
 
 # Warnings: Desktop Update
 z.string.sk.warning_lifecycle_update = 'Je dostupná nová verzia programu.'
+z.string.sk.warning_lifecycle_update_notes = 'Čo je nové'
 z.string.sk.warning_lifecycle_update_link = 'Aktualizovať'
 
 # Browser notifications
@@ -582,16 +584,9 @@ z.string.sk.tooltip_preferences_rename = 'Zmeniť Vaše meno'
 z.string.sk.tooltip_search_close = 'Zavrieť (Esc)'
 
 # App loading
-z.string.sk.init_received_access_token = 'Prístup povolený'
 z.string.sk.init_received_self_user = 'Ahoj, %name%.'
-z.string.sk.init_sessions_expectation = 'Potrebujeme inicializovať %sessions relácie'
-z.string.sk.init_sessions_expectation_long = 'Potrebujeme inicializovať %sessions relácie'
-z.string.sk.init_sessions_progress = 'Inicializácia relácií - %progress z %total'
-z.string.sk.init_initialized_storage = 'Relácie načítané'
 z.string.sk.init_received_user_data = 'Kontrola nových správ'
-z.string.sk.init_events_expectation = 'Máte %events nových správ'
-z.string.sk.init_updated_from_notifications = 'Už tam skoro sme'
-z.string.sk.init_app_pre_loaded = 'Užite si Wire'
+z.string.sk.init_updated_from_notifications = 'Užite si Wire'
 
 z.string.sk.ephememal_units_none = 'Vypnúť'
 z.string.sk.ephememal_units_second = 'sekunda'

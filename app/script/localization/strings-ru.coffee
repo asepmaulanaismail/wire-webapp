@@ -274,6 +274,7 @@ z.string.ru.conversation_delete_timestamp = 'Удалено %@timestamp'
 z.string.ru.conversation_edit_timestamp = 'Изменено %@timestamp'
 z.string.ru.conversation_likes_caption = '%@number участникам'
 z.string.ru.conversation_send_pasted_file = 'Изображение добавлено %date'
+z.string.ru.conversation_tweet_author = ' в Twitter'
 
 # Collection
 z.string.ru.collection_show_all = 'Показать все %no'
@@ -537,6 +538,7 @@ z.string.ru.warning_connectivity_no_internet = 'Отсутсвует подкл�
 
 # Warnings: Desktop Update
 z.string.ru.warning_lifecycle_update = 'Доступна новая версия Wire.'
+z.string.ru.warning_lifecycle_update_notes = 'Что нового'
 z.string.ru.warning_lifecycle_update_link = 'Обновить сейчас'
 
 # Browser notifications
@@ -600,20 +602,9 @@ z.string.ru.tooltip_preferences_rename = 'Изменить свое имя'
 z.string.ru.tooltip_search_close = 'Закрыть (Esc)'
 
 # App loading
-z.string.ru.init_received_access_token = 'Доступ предоставлен'
 z.string.ru.init_received_self_user = 'Здравствуйте, %name.'
-z.string.ru.init_sessions_expectation = 'Необходимо инициализировать сессии %sessions'
-z.string.ru.init_sessions_expectation_long = 'Необходимо инициализировать сессии %sessions'
-z.string.ru.init_sessions_progress = 'Инициализация сессий — %progress из %total'
-z.string.ru.init_initialized_storage = 'Сессии загружены'
-z.string.ru.init_initialized_cryptography = 'Криптография полностью настроена'
-z.string.ru.init_validated_client = 'Загрузка ваших контактов и разговоров'
 z.string.ru.init_received_user_data = 'Проверка наличия новых сообщений'
-z.string.ru.init_events_expectation = 'У вас %events новых сообщений'
-z.string.ru.init_events_expectation_long = 'Загрузка %events новых сообщений'
-z.string.ru.init_events_progress = 'Загрузка сообщений — %progress из %total'
-z.string.ru.init_updated_from_notifications = 'Почти готово'
-z.string.ru.init_app_pre_loaded = 'Наслаждайтесь Wire'
+z.string.ru.init_updated_from_notifications = 'Наслаждайтесь Wire'
 
 z.string.ru.ephememal_units_none = 'Выключен'
 z.string.ru.ephememal_units_second = 'сек'

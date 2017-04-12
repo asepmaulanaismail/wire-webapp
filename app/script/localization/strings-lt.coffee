@@ -274,6 +274,7 @@ z.string.lt.conversation_delete_timestamp = 'Ištrinta %@timestamp'
 z.string.lt.conversation_edit_timestamp = 'Taisyta %@timestamp'
 z.string.lt.conversation_likes_caption = '%@number žmonėms'
 z.string.lt.conversation_send_pasted_file = 'Paveikslas įdėtas %date'
+z.string.lt.conversation_tweet_author = ' socialiniame tinkle Twitter'
 
 # Collection
 z.string.lt.collection_show_all = 'Rodyti visus %no'
@@ -519,6 +520,7 @@ z.string.lt.warning_connectivity_no_internet = 'Nėra interneto. Jūs negalėsit
 
 # Warnings: Desktop Update
 z.string.lt.warning_lifecycle_update = 'Yra prieinama nauja Wire versija.'
+z.string.lt.warning_lifecycle_update_notes = 'Kas naujo'
 z.string.lt.warning_lifecycle_update_link = 'Atnaujinti dabar'
 
 # Browser notifications
@@ -582,16 +584,9 @@ z.string.lt.tooltip_preferences_rename = 'Pakeisti savo vardą'
 z.string.lt.tooltip_search_close = 'Užverti (Esc)'
 
 # App loading
-z.string.lt.init_received_access_token = 'Prieiga suteikta'
 z.string.lt.init_received_self_user = 'Sveiki, %name.'
-z.string.lt.init_sessions_expectation = 'Mes turime inicijuoti %sessions seansus'
-z.string.lt.init_sessions_expectation_long = 'Mes turime inicijuoti %sessions seansus'
-z.string.lt.init_sessions_progress = 'Inicijuojami seansai - %progress iš %total'
-z.string.lt.init_initialized_storage = 'Seansai įkelti'
 z.string.lt.init_received_user_data = 'Tikrinama ar yra naujų žinučių'
-z.string.lt.init_events_expectation = 'Jūs turite %events naujas žinutes'
-z.string.lt.init_updated_from_notifications = 'Beveik paruošta'
-z.string.lt.init_app_pre_loaded = 'Mėgaukitės Wire'
+z.string.lt.init_updated_from_notifications = 'Mėgaukitės Wire'
 
 z.string.lt.ephememal_units_none = 'Išjungta'
 z.string.lt.ephememal_units_second = 'sek.'

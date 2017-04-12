@@ -274,6 +274,7 @@ z.string.sl.conversation_delete_timestamp = 'Izbrisan ob %@timestamp'
 z.string.sl.conversation_edit_timestamp = 'Urejen ob %@timestamp'
 z.string.sl.conversation_likes_caption = '%@number oseb'
 z.string.sl.conversation_send_pasted_file = 'Prilepljena slika ob %date'
+z.string.sl.conversation_tweet_author = ' na Twitterju'
 
 # Collection
 z.string.sl.collection_show_all = 'Prikaži vse %no'
@@ -529,6 +530,7 @@ z.string.sl.warning_connectivity_no_internet = 'Ni spletne povezave. Ne boste mo
 
 # Warnings: Desktop Update
 z.string.sl.warning_lifecycle_update = 'Na voljo je nova različica Wire.'
+z.string.sl.warning_lifecycle_update_notes = 'Kaj je novega'
 z.string.sl.warning_lifecycle_update_link = 'Posodobi zdaj'
 
 # Browser notifications
@@ -592,16 +594,9 @@ z.string.sl.tooltip_preferences_rename = 'Spremenite vaše ime'
 z.string.sl.tooltip_search_close = 'Zapri (Esc)'
 
 # App loading
-z.string.sl.init_received_access_token = 'Dostop odobren'
 z.string.sl.init_received_self_user = 'Hej, %name.'
-z.string.sl.init_sessions_expectation = 'Moramo inicializirati %sessions sej'
-z.string.sl.init_sessions_expectation_long = 'Moramo inicializirati %sessions sej'
-z.string.sl.init_sessions_progress = 'Inicializacija sej - %progress od %total'
-z.string.sl.init_initialized_storage = 'Seje naložene'
 z.string.sl.init_received_user_data = 'Preverjanje za morebitna nova sporočila'
-z.string.sl.init_events_expectation = 'Imaš %events novih sporočil'
-z.string.sl.init_updated_from_notifications = 'Smo skoraj tam'
-z.string.sl.init_app_pre_loaded = 'Uživajte v Wire'
+z.string.sl.init_updated_from_notifications = 'Uživajte v Wire'
 
 z.string.sl.ephememal_units_none = 'Izklopljeno'
 z.string.sl.ephememal_units_second = 'sekunda'

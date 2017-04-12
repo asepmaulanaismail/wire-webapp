@@ -274,6 +274,7 @@ z.string.ro.conversation_delete_timestamp = 'A fost șters la %@timestamp'
 z.string.ro.conversation_edit_timestamp = 'A fost editat la %@timestamp'
 z.string.ro.conversation_likes_caption = '%@number persoane'
 z.string.ro.conversation_send_pasted_file = 'A postat o imagine pe %date'
+z.string.ro.conversation_tweet_author = ' pe Twitter'
 
 # Collection
 z.string.ro.collection_show_all = 'Arată toate %no'
@@ -536,6 +537,7 @@ z.string.ro.warning_connectivity_no_internet = 'Nu este conexiune la internet. N
 
 # Warnings: Desktop Update
 z.string.ro.warning_lifecycle_update = 'Este disponibilă o nouă versiune de Wire.'
+z.string.ro.warning_lifecycle_update_notes = 'Ce mai e nou'
 z.string.ro.warning_lifecycle_update_link = 'Actualizează acum'
 
 # Browser notifications
@@ -599,20 +601,9 @@ z.string.ro.tooltip_preferences_rename = 'Schimbă numele tău'
 z.string.ro.tooltip_search_close = 'Închide (Esc)'
 
 # App loading
-z.string.ro.init_received_access_token = 'Acces permis'
 z.string.ro.init_received_self_user = 'Bună, %name.'
-z.string.ro.init_sessions_expectation = 'Trebuie să inițializăm %sessions sesiuni'
-z.string.ro.init_sessions_expectation_long = 'Trebuie să inițializăm %sessions sesiuni'
-z.string.ro.init_sessions_progress = 'Se inițializează sesiunile - %progress din %total'
-z.string.ro.init_initialized_storage = 'Sesiunile s-au încărcat'
-z.string.ro.init_initialized_cryptography = 'Criptografia a fost configurată complet'
-z.string.ro.init_validated_client = 'Se încarcă conexiunile și conversațiile tale'
 z.string.ro.init_received_user_data = 'Verifică dacă sunt mesaje noi'
-z.string.ro.init_events_expectation = 'Ai %events noi mesaje'
-z.string.ro.init_events_expectation_long = 'Se încarcă %events noi mesaje'
-z.string.ro.init_events_progress = 'Se încacrcă mesajele - %progress din %total'
-z.string.ro.init_updated_from_notifications = 'Ești foarte aproape'
-z.string.ro.init_app_pre_loaded = 'Bucură-te de Wire'
+z.string.ro.init_updated_from_notifications = 'Bucură-te de Wire'
 
 z.string.ro.ephememal_units_none = 'Închis'
 z.string.ro.ephememal_units_second = 'secundă'
